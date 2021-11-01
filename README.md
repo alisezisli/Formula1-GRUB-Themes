@@ -41,3 +41,45 @@ It's pretty much the same. But you might have to use some something else instead
 ## Notes
 
 These are my first GRUB themes and I'm sure it needs a lot of improvement. I've tested this theme with Ubuntu 20.04 in 1920x1080 resolution. Feel free to create issues and PR's.
+
+## Screenshots
+
+### Mercedes-AMG Petronas F1 Theme
+
+![Mercedes-AMG Petronas F1 Theme](https://github.com/alisezisli/Formula1-GRUB-Themes/blob/main/Screenshots/Mercedes-AMG-F1.png?raw=true)
+
+### Red Bull Racing Honda Theme
+
+![Red Bull Racing Honda Theme](https://github.com/alisezisli/Formula1-GRUB-Themes/blob/main/Screenshots/Red-Bull-Racing.png?raw=true)
+
+### McLaren Mercedes Theme
+
+![McLaren Mercedes Theme](https://github.com/alisezisli/Formula1-GRUB-Themes/blob/main/Screenshots/McLaren-Mercedes.png?raw=true)
+
+### Scuderia Ferrari Theme
+
+![Scuderia Ferrari Theme](https://github.com/alisezisli/Formula1-GRUB-Themes/blob/main/Screenshots/Scuderia-Ferrari.png?raw=true)
+
+### Alpine F1 Team Theme
+
+![Alpine F1 Team Theme](https://github.com/alisezisli/Formula1-GRUB-Themes/blob/main/Screenshots/Alpine-F1.png?raw=true)
+
+### Scuderia AlphaTauri Theme
+
+![Scuderia AlphaTauri Theme](https://github.com/alisezisli/Formula1-GRUB-Themes/blob/main/Screenshots/AlphaTauri.png?raw=true)
+
+### Aston Martin F1 Team Theme
+
+![Aston Martin F1 Team Theme](https://github.com/alisezisli/Formula1-GRUB-Themes/blob/main/Screenshots/Aston-Martin.png?raw=true)
+
+### Williams Racing Theme
+
+![Williams Racing Theme](https://github.com/alisezisli/Formula1-GRUB-Themes/blob/main/Screenshots/Williams.png?raw=true)
+
+### Alfa Romeo Racing Theme
+
+![Alfa Romeo Racing Theme](https://github.com/alisezisli/Formula1-GRUB-Themes/blob/main/Screenshots/Alfa-Romeo.png?raw=true)
+
+### Haas F1 Team Theme
+
+![Alfa Romeo Racing Theme](https://github.com/alisezisli/Formula1-GRUB-Themes/blob/main/Screenshots/Haas.png?raw=true)
