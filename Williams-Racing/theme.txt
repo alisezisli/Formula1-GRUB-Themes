@@ -1,0 +1,76 @@
+# Williams Racing GRUB theme
+#
+# Written by Ali Sezişli (https://alisezisli.com.tr)
+# GNU/Linux Blog: https://gnuadm.in
+# Source: https://github.com/alisezisli/Formula1-GRUB-Themes
+
+#Global Properties
+title-text: "Williams Racing"
+title-color: "#046695"
+desktop-image: "background.png"
+desktop-image-scale-method: "stretch"
+terminal-width: "100%"
+terminal-height: "100%"
+terminal-left: "0"
+terminal-top: "0"
+terminal-border: "0"
+terminal-box: "menu_bg_*.png"
+
+#Boot Menu
++ boot_menu {
+	menu_pixmap_style = "boot_menu_*.png"
+	width = 40%
+	height = 20%
+	top = 25%
+	left = 30%
+	item_color = "#aaaaaa"
+	selected_item_color = "#FFFFFF"
+	icon_width = 32
+	icon_height = 32
+	item_icon_space = 10
+	item_height = 40
+	item_padding = 10
+	item_spacing = 10
+	selected_item_pixmap_style = "select_*.png"
+	scrollbar = true
+	scrollbar_width = 15
+	scrollbar_thumb = "slider_*.png"
+}
+
+#Progress Bar
++ progress_bar {
+	id = "__timeout__"
+	width = 38%
+	height = 45
+	top = 80%
+	left = 31%
+	text = "Leaving pit area in: %d seconds"
+	text_color = "#FFFFFF"
+	bar_style = "progress_bar_*.png"
+	highlight_style = "progress_highlight_*.png"
+}
+
+#Blog
++ label {
+	width = 30%
+	height = 30
+	top = 85%
+	left = 35%
+	color = "#046695"
+	align = "center"
+	text = "alisezisli.com.tr"
+	item_font = "DejaVu Mono Regular 24"
+}
+
+
+#GNU Admin
++ label {
+	width = 30%
+	height = 30
+	top = 90%
+	left = 35%
+	color = "#046695"
+        align = "center"
+        text = "gnuadm.in"
+	item_font = "DejaVu Mono Regular 24"
+}
