@@ -27,12 +27,14 @@ As a fan, I've wanted to create a GRUB theme for myself and then share it with t
 
 1. `git clone https://github.com/alisezisli/Formula1-GRUB-Themes` (or download the project as a zip)
 2. `cd Formula1-GRUB-Themes`
-3. `sudo cp -r {The Theme You Want} /boot/grub/themes/`
-4. `sudo vi /etc/default/grub`
-5. Change the corresponding lines. If the lines don't exist, add them into file:
+3. `sudo mkdir /boot/grub/themes`
+4. `sudo cp -r {The Theme You Want} /boot/grub/themes/`
+5. `sudo vi /etc/default/grub`
+6. Change the corresponding lines. If the lines don't exist, add them into file:
+    + `GRUB_TIMEOUT=10`
     + `GRUB_TIMEOUT_STYLE=menu`
     + `GRUB_THEME="/boot/grub/themes/{The Theme You Want}/theme.txt"`
-6. `sudo update-grub`
+7. `sudo update-grub`
 
 ## Installation (For other distros)
 
