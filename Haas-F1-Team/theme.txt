@@ -1,7 +1,6 @@
 # Haas F1 Team GRUB theme
 #
 # Written by Ali Sezişli (https://alisezisli.com.tr)
-# GNU/Linux Blog: https://gnuadm.in
 # Source: https://github.com/alisezisli/Formula1-GRUB-Themes
 
 #Global Properties
@@ -71,6 +70,6 @@ terminal-box: "menu_bg_*.png"
 	left = 35%
 	color = "#ed1b24"
         align = "center"
-        text = "gnuadm.in"
+        text = "linuxhate.com"
 	item_font = "DejaVu Mono Regular 24"
 }
